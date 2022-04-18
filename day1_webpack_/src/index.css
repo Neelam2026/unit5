@@ -1,0 +1,78 @@
+.redtext{
+    color: rgb(213, 227, 14);
+    margin-left: 78%;
+
+}
+*{
+    font-family:  sans-serif;
+}
+
+#img1{
+    width: 7%;;
+    padding: .1%;
+    border-radius: 30%;
+    border: 3px solid rgb(199, 188, 188);
+   
+}
+#div1{
+    background-color: rgb(9, 76, 100);
+    display: flex;
+  
+}
+#container{
+   
+    width: 90%;
+    display: flex;
+margin-top: 3%;
+margin-left: 5%;
+
+}
+#textvalue{
+    border-right: 1px solid rgb(90, 81, 81);
+    width: 46%;   
+}
+#textdisplay{
+    
+    width: 46%;   
+}
+#add_btn{
+    background-color: rgb(6, 76, 92);
+    border: 3px solid grey;
+    color: white;
+    font-weight: 600;
+    font-size: 120%;
+    width:80%;
+    height: 40px;
+  
+    
+}
+textarea{
+    background-color: rgb(176, 179, 164);
+   
+    font-size: 120%;
+}
+#div11{
+border: .5px solid grey;
+margin: 3%;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#div4{
+    background-color: rgb(49, 49, 48);
+    color :white;
+    border: .5px solid rgb(68, 70, 70);
+    font-size: 120;
+    font-weight: 600;
+    height: 20px;
+    padding: 1%;
+}
+#div3{
+    background-color: rgb(221, 59, 31);
+    height: 30px;
+    padding: 1%;
+}
+#div2{
+    background-color: rgb(239, 244, 241);
+    padding: 1%;
+    font-size: 110;
+    font-family: cursive;
+}
