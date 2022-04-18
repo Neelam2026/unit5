@@ -1,0 +1,21 @@
+.input{
+    width: 60%;
+    height: 50px;
+    margin: 1%;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding-left: 2%;
+    font-size: 120%;
+}
+.button{
+    height: 55px;
+  background-color: greenyellow;
+    width: 10%;
+    border-radius: 15px;
+    border: 1px solid grey;
+    font-weight:900 ;
+   
+}
+.Todoinput{
+    border: 1px solid rgb(198, 200, 192);
+}

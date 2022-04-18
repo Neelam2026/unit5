@@ -1,0 +1,43 @@
+.todoitems{
+    width: 72%;
+    height:45;
+    border: 1px solid grey;
+    margin-left: 14%;
+    text-align: center;
+    background-color: white;
+    margin-top: 5%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    padding: 1%;
+    border-radius: 50px;
+    font-size: 138%;
+    font-weight: 700;
+}
+
+.togglebutton1{
+  
+    width: 10%;
+    height: 50px;
+    border-radius: 50px;
+    border: 6px solid grey;
+    background-color: red;
+    margin-left: 50%;
+   
+    
+   
+}
+.togglebutton{
+  
+    width: 10%;
+    height: 50px;
+    border-radius: 50px;
+    border: 6px solid grey;
+    background-color: rgb(85, 255, 0);
+    margin-left: 50%;
+   
+}
+.dltbtn{
+    background-color: rgb(162, 171, 171); 
+    border-radius: 50px;
+    border: 6px solid rgb(241, 13, 13); 
+    margin-left: 5%;
+}
