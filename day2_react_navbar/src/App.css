@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: black;
+  color :azure;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  
+}
+.disflex{
+  display: flex;
+  margin-left: 40%;
+ 
+}
+.test{
+  margin-left:30%;
+  color:white;
+  text-decoration: none;
+  margin-top: 5%;
+}
+.test:hover{
+  color: rgb(32, 141, 230);
+}
+button{
+  margin-left: 36%;
+  background-color: rgb(32, 141, 230);
+  height: 30px;
+  border-radius: 10px;
+  margin-top: 15px;
+} 
