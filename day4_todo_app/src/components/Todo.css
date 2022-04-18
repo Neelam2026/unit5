@@ -1,0 +1,75 @@
+.todoitems,.todoitems_down{
+   width: 72%;
+   height:40px;
+   border: 1px solid grey;
+   margin-left: 15.5%;
+   color:rgb(108, 6, 89);
+   padding: .5%;
+   background-color: white;
+   margin-top: 5%;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    border-radius: 50px;
+    display: flex;
+    font-size: 120%;
+   
+   
+  
+}
+.todoitems_down{
+   text-decoration: line-through;
+}
+
+.checkbox{
+  width: 30px;
+  height: 30px;
+   cursor: pointer;
+   
+  
+}
+.items{
+   font-size: 120%;
+   font-weight: 600;
+   margin-left: 10%;
+   /* border: 1px solid grey; */
+   
+}
+/* todoinput */
+.input{
+   width: 60%;
+   height: 50px;
+   margin: 1%;
+   border-radius: 5px;
+   border: 1px solid grey;
+   padding-left: 2%;
+   font-size: 120%;
+}
+.button{
+   height: 55px;
+  background-color: greenyellow;
+   width: 10%;
+   border-radius: 15px;
+   border: 1px solid grey;
+   font-weight:900 ;
+   margin-left: 15%;
+  
+}
+.Todoinput{
+   border: 1px solid rgb(198, 200, 192);
+}
+/*  */
+#show{
+   text-decoration: line-through;
+ 
+}
+#check{
+   text-decoration: line-through;
+   color: red; 
+}
+
+#color{
+   text-align: center;
+   margin-top: 5%;
+   font-size: 130%;
+   font-weight: 600;
+  color:grey
+}
