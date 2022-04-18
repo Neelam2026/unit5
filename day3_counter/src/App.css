@@ -1,0 +1,33 @@
+.App {
+  width: 40%;
+  margin-left: 30%;
+  text-align: center;
+  border: 1px solid grey;
+  height: 300px;
+  background-color: rgb(122, 122, 120);
+  margin-top: 8%;
+}
+
+.redColor{
+  color: red;
+  border: .5px solid rgb(248, 188, 188);
+  text-align: center;
+  background-color: rgb(233, 224, 224);
+  width: 70%;
+  margin-left: 15%;
+ 
+}
+.greenColor{
+  color: green;
+  border: 1px solid rgb(21, 255, 0);
+  background-color: rgb(167, 234, 232);
+  width: 70%;
+  margin-left: 15%;
+}
+button{
+  margin: 2%;
+  background-color: black;
+  color: rgb(244, 231, 231);
+  font-size: large;
+  margin-top: 10%;
+}
