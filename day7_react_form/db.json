@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "name": "Neelam Singh",
+      "address": "MP",
+      "age": "25",
+      "department": "A",
+      "salary": "90000",
+      "married": "No",
+      "id": 1
+    },
+    {
+      "name": "neha",
+      "age": "25",
+      "address": "goa",
+      "department": "C",
+      "salary": "456321",
+      "married": "Yes",
+      "id": 2
+    },
+    {
+      "name": "Neelam Singh",
+      "address": "Satna",
+      "married": "Yes",
+      "department": "A",
+      "age": "12",
+      "salary": "123322",
+      "id": 3
+    },
+    {
+      "name": "rakhi",
+      "age": "12",
+      "address": "Bhopal",
+      "department": "D",
+      "married": "Yes",
+      "salary": "789654",
+      "id": 4
+    }
+    
+  ]
+}

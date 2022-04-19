@@ -1,0 +1,46 @@
+.trbody{
+color :rgb(228, 15, 15);
+
+
+}
+.trbody>td{
+    color :rgb(41, 43, 33);
+ }
+  th{
+      border: 1px solid rgb(24, 21, 21);
+      padding: .3%;
+      background-color: rgb(221, 232, 232);
+      width: 1%;
+  }
+  td{
+    border: 1px solid rgb(24, 21, 21);
+    padding: .3%;
+    background-color: rgb(111, 226, 226);
+    width: 1%;
+    text-align: center;
+}
+form{
+    border:1px solid rgb(24, 21, 21);
+    width: 60%;
+   margin: 2%;
+   margin-left: 18%;
+   padding: .3%;
+   background-color: rgb(235, 159, 159);
+}
+input,select{
+    margin :2%;
+    margin-left: 18%;
+    padding: .3%;
+    background-color: rgb(232, 238, 236);
+}
+h1{
+    border:.1px solid rgb(71, 69, 69);
+    width: 60%;
+    text-align: center;
+   margin: 2%;
+   margin-left: 18%;
+   padding: .3%;
+   background-color: rgb(211, 231, 32);
+}
+
+
