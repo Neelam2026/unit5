@@ -1,0 +1,22 @@
+button{
+    background-color: rgb(227, 92, 30);
+    margin: 2%;
+}
+button:hover{
+    background-color: rgb(244, 244, 5);
+}
+.StopWatch{
+    border: 1px solid rgb(94, 91, 91);
+    width: 40%;
+    margin-left: 30%;
+    height: 200px;
+    background-color: rgb(202, 202, 198);
+}
+
+.timer{
+    border: 1px solid rgb(94, 91, 91);
+    width: 60%;
+    margin-left: 20%;
+    height: 200px;
+    background-color: rgb(202, 202, 198);
+}
