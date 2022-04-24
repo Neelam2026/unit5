@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+:root{
+  background-color: rgb(247, 240, 240);
+  border:1px solid rgb(203, 76, 76);
+
+ 
+}
+[data-theme="dark"]{
+  background-color: black;
+  border:1px solid rgb(20, 1, 1);
+ 
+   
+}
+
+
+
