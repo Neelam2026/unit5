@@ -1,16 +1,13 @@
-import { Navbar } from './components/navbar'
-import User from "./components/Users"
-import './App.css'
+import Navbar from './components/Navbar';
+import User from './components/User';
 
-function App() {
- 
+const App = () => {
+	return (
+		<div className='app' style={{textAlign:'center'}}>
+			<Navbar />
+			<User />
+		</div>
+	);
+};
 
-  return (
-    <div className="App">
-      < Navbar/>
-      <User></User>
-    </div>
-  )
-}
-
-export default App
+export default App;

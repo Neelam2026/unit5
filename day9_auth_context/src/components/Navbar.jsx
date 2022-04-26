@@ -11,12 +11,12 @@ const Navbar = () => {
 				padding: '1rem',
 				display: 'flex',
 				alignItems: 'center',
-				background:'yellogreen',
+				background:'yellowgreen',
 				
 			}}
 		>
 			{isAuth ? 
-				<button
+				<button style={{background:'red'}}
 					onClick={() => {
 						toggleAuth();
 					}}
@@ -24,7 +24,7 @@ const Navbar = () => {
 					logout
 				</button>
 			 : 
-				<button >login</button>
+				<button style={{background:'white'}}>login</button>
 			}
 		</nav>
 	);

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import axios from 'axios';
 import { useContext } from 'react';
-import { AuthContext } from '../context/AuthContext';
+import { AuthContext } from '../contexts/AuthContext';
 
 const User = () => {
 	const { isAuth, toggleAuth } = useContext(AuthContext);
@@ -28,21 +28,23 @@ const User = () => {
 	};
 	console.log(regUser);
 	return (
-		<div>
+		<div style={{background:'grey',width:"40%",marginLeft:"30%"}}>
 			<h3>login user</h3>
-			<form onSubmit={handleRegisterSub}>
+			<form onSubmit={handleRegisterSub}  >
 				<input
 					type='text'
 					name='email'
 					placeholder='email'
 					onChange={handleRegisterChan}
 				/>
+				<br></br>
 				<input
 					type='password'
 					name='password'
 					placeholder='password'
 					onChange={handleRegisterChan}
 				/>
+				<br></br>
 				<button>login</button>
 				{isAuth ? (
 					<>
